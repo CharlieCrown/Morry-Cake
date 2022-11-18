@@ -49,5 +49,3 @@ Descripción:
 <img src="./img/past1.PNG" alt="Inicio" height="500">
 <img src="./img/past2.PNG" alt="Inventario" height="500">
 <img src="./img/past3.PNG" alt="Inventario" height="500">
-
-[Volver al menú &ldca;](../README.md "Regresar a página principal")
